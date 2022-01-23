@@ -1,1 +1,7 @@
-[{"title":"Test Title","text":"Test text"},{"title":"first title","text":"this is a first note","id":"436e52da-90a9-4b6f-b0f3-28075d6766c2"}]
+[
+  {
+    "title": "Gym",
+    "text": "Gym first thing in the morning",
+    "id": "4a1cc905-0ab3-4a87-973b-ad825fe46c99"
+  }
+]
