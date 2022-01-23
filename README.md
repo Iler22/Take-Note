@@ -12,7 +12,7 @@ Please click on the following link for a live deployment of the app https://iler
 
 ## Screenshot
 
-["/Images/Take Note.png]
+![Take Note](https://user-images.githubusercontent.com/89151536/150702835-53a7a3f8-c0d2-48ac-a3e4-7d62f78bda8b.png)
 
 ## Table of Contents
 
