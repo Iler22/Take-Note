@@ -43,11 +43,6 @@ This repository is licensed under the MIT license.
 
 This application is a demonstartion.
 
-## Test
-
-To run tests, run the following:
-`npm start`
-
 ## Questions
 
 Questions about this repository? Please contact me at [ilerwatson22@gmail.com](mailto:ilerwatson22@gmail.com). View more of my work in GitHub at https://github.com/Iler22
