@@ -20,7 +20,6 @@ Please click on the following link for a live deployment of the app https://iler
 - [Usage](#usage)
 - [License](#license)
 - [Contributing](#contributing)
-- [Test](#test)
 - [Questions](#questions)
 
 ## Technologies Used
